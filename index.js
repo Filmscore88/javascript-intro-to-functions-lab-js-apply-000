@@ -6,5 +6,5 @@ function shout(string){
     return string.toLowerCase()
   }
   function logShout(string){
-    const spyOn=console.log()
+    console.log()s
   }
