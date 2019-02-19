@@ -21,6 +21,6 @@ function whisper(string){
     if (string.toLowerCase()==string){
       return ("I can\'t hear you!")
     if (string.ToUpperCase()==string){
-      
+      return ("YES INDEED!")
     }
   }
