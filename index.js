@@ -22,4 +22,4 @@ function whisper(string){
       return ("I can\'t hear you!")
    
     }
-  }
+  
